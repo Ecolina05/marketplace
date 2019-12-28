@@ -1,0 +1,17 @@
+body{
+    font-family: 'FontAwesome' ,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji" !important;
+}
+
+/* Inputs of forms */
+.form-control:focus, .form-control:active{
+    box-shadow: none !important;
+}
+
+/* Text size */
+.text-sm{
+    font-size: small;
+}
+
+.text-lg{
+    font-size: large;
+}

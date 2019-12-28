@@ -1,0 +1,45 @@
+.navbar {
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.navbar .search {
+  background-color: #4e565d;
+  border: none;
+  width: 500px;
+  color: white;
+}
+
+.search::placeholder {
+  color: rgb(231, 231, 231);
+  opacity: 1; /* Firefox */
+}
+
+.search:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: rgb(231, 231, 231);
+}
+
+.search::-ms-input-placeholder {
+  /* Microsoft Edge */
+  color: rgb(231, 231, 231);
+}
+
+.btn-car {
+  background: transparent;
+  color: white;
+}
+
+.btn-car:hover {
+  background: transparent;
+  color: white;
+}
+
+.btn-car i {
+  font-size: 25px;
+}
+
+.car-items {
+  top: -10px !important;
+  font-weight: 400;
+}

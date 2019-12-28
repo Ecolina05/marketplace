@@ -1,0 +1,19 @@
+.card-title{
+    color: rgb(32, 32, 32);
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.card-subtitle{
+    color: rgb(71, 71, 71);
+    font-weight: 100;
+    font-size: 14px;
+}
+
+.price{
+    font-weight: 100;
+}
+
+.card-link{
+    color: rgb(76, 76, 76);
+}
